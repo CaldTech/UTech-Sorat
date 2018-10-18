@@ -1,0 +1,19 @@
+
+    #readingPassage{
+
+      text-align: left;
+      box-shadow:0 0 10px #9ecaed;
+    }
+
+  #blurPassage{
+      text-shadow: 0 0 10px #000;
+      color: transparent;
+    }
+
+  #btnStart{
+      text-align: center;
+    }
+  #btnStop{
+      text-align: center;
+      display: none;
+    }
